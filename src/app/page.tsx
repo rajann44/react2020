@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="footer">
+      <h2>New footer Component</h2>
+    </div>
+    
     <div className="header">
       <h2>New header Component</h2>
     </div>
