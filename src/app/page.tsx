@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="checkbox">
+      <h2>New checkbox Component</h2>
+    </div>
+    
     <div className="button">
       <h2>New button Component</h2>
     </div>
