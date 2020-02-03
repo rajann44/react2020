@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="datepicker">
+      <h2>New datepicker Component</h2>
+    </div>
+    
     <div className="calendar">
       <h2>New calendar Component</h2>
     </div>
