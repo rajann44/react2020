@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="notification">
+      <h2>New notification Component</h2>
+    </div>
+    
     <div className="alert">
       <h2>New alert Component</h2>
     </div>
