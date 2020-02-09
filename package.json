@@ -1,6 +1,6 @@
 {
   "name": "react2020",
-  "version": "0.9.9",
+  "version": "0.6.3",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
