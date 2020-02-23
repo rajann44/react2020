@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="pagination">
+      <h2>New pagination Component</h2>
+    </div>
+    
     <div className="sort">
       <h2>New sort Component</h2>
     </div>
