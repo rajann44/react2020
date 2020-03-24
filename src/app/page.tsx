@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="form">
+      <h2>New form Component</h2>
+    </div>
+    
     <div className="timepicker">
       <h2>New timepicker Component</h2>
     </div>
