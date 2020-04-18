@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="editor">
+      <h2>New editor Component</h2>
+    </div>
+    
     <div className="player">
       <h2>New player Component</h2>
     </div>
