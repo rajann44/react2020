@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="menu">
+      <h2>New menu Component</h2>
+    </div>
+    
     <div className="tree">
       <h2>New tree Component</h2>
     </div>
