@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="">
+      <h2>New  Component</h2>
+    </div>
+    
     <div className="modal">
       <h2>New modal Component</h2>
     </div>
