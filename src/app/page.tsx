@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="textarea">
+      <h2>New textarea Component</h2>
+    </div>
+    
     <div className="select">
       <h2>New select Component</h2>
     </div>
