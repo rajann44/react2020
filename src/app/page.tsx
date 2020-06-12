@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="gallery">
+      <h2>New gallery Component</h2>
+    </div>
+    
     <div className="map">
       <h2>New map Component</h2>
     </div>
