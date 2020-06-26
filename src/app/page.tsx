@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="timeline">
+      <h2>New timeline Component</h2>
+    </div>
+    
     <div className="steps">
       <h2>New steps Component</h2>
     </div>
