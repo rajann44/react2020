@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="accordion">
+      <h2>New accordion Component</h2>
+    </div>
+    
     <div className="dropdown">
       <h2>New dropdown Component</h2>
     </div>
