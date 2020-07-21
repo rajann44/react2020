@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="carousel">
+      <h2>New carousel Component</h2>
+    </div>
+    
     <div className="tabs">
       <h2>New tabs Component</h2>
     </div>
