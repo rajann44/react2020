@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="alert">
+      <h2>New alert Component</h2>
+    </div>
+    
     <div className="spinner">
       <h2>New spinner Component</h2>
     </div>
