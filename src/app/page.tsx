@@ -186,6 +186,10 @@ export default function Home() {
       <h2>New  Component</h2>
     </div>
     
+    <div className="">
+      <h2>New  Component</h2>
+    </div>
+    
     <div className="modal">
       <h2>New modal Component</h2>
     </div>
