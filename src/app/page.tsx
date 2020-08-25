@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="filter">
+      <h2>New filter Component</h2>
+    </div>
+    
     <div className="search">
       <h2>New search Component</h2>
     </div>
