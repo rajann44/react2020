@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="sort">
+      <h2>New sort Component</h2>
+    </div>
+    
     <div className="filter">
       <h2>New filter Component</h2>
     </div>
