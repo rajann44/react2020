@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="menu">
+      <h2>New menu Component</h2>
+    </div>
+    
     <div className="navigation">
       <h2>New navigation Component</h2>
     </div>
