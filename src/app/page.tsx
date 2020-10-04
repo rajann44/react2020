@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="file-upload">
+      <h2>New file-upload Component</h2>
+    </div>
+    
     <div className="textarea">
       <h2>New textarea Component</h2>
     </div>
