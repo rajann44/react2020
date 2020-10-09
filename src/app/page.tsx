@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="card">
+      <h2>New card Component</h2>
+    </div>
+    
     <div className="badge">
       <h2>New badge Component</h2>
     </div>
