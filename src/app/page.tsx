@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="chart">
+      <h2>New chart Component</h2>
+    </div>
+    
     <div className="grid">
       <h2>New grid Component</h2>
     </div>
