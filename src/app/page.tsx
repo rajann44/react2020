@@ -2,6 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    <div className="steps">
+      <h2>New steps Component</h2>
+    </div>
+    
     <div className="breadcrumb">
       <h2>New breadcrumb Component</h2>
     </div>
